@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Final project CSE490G1: deep learning 
 
-You can use the [editor on GitHub](https://github.com/danielluo77/danielluo77.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Created and presented by Yihan Qiu and Daniel Luo
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Abstract
+You could found everything of this project by the [link](https://github.com/danielluo77/danielluo77.github.io/edit/main/README.md)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Problem statement
+We are trying to find the movie genre and the year range, given the information of the poster image of movies.
+### Related work
+The paper "Movie Genre Classification based on Poster Images with Deep Neural Networks
+### Methdology
 
-# Header 1
-## Header 2
-### Header 3
+### Experiments
 
-- Bulleted
-- List
+### Results
 
-1. Numbered
-2. List
+### Examples
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/danielluo77/danielluo77.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Video
